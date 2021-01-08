@@ -1,0 +1,45 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "297e22b6-042a-e242-a416-b4544e7e6681++3593+++31C0663",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "297e22b6-042a-e242-a416-b4544e7e6681++3593+++31C0663" : {
+
+    },
+    "297e22b6-042a-e242-a416-b4544e7e6681++3593+++5824259" : {
+
+    },
+    "45366fa9-fe4f-044b-8270-248b0171a5fa++1552+++2F47BEF" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "297e22b6-042a-e242-a416-b4544e7e6681++3593+++31C0663" : 9223372036854775807,
+    "297e22b6-042a-e242-a416-b4544e7e6681++3593+++5824259" : 9223372036854775807,
+    "45366fa9-fe4f-044b-8270-248b0171a5fa++1552+++2F47BEF" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7C4D917C-4DB5-4DD4-AC12-084D7E0E5317",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "297e22b6-042a-e242-a416-b4544e7e6681++3593+++31C0663" : "RMSSharingApp_Mac\/",
+    "297e22b6-042a-e242-a416-b4544e7e6681++3593+++5824259" : "SSClient\/",
+    "45366fa9-fe4f-044b-8270-248b0171a5fa++1552+++2F47BEF" : "SSClient\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "imageprocessing.1.0.0",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "imageprocessing.1.0.0.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.10.1.10:8084\/svn\/ccm",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "297e22b6-042a-e242-a416-b4544e7e6681++3593+++31C0663"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.10.1.10:8084\/svn\/ccm",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "297e22b6-042a-e242-a416-b4544e7e6681++3593+++5824259"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.10.1.10:8084\/svn\/ccm",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "45366fa9-fe4f-044b-8270-248b0171a5fa++1552+++2F47BEF"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageProcessing.h"
+            timestampString = "572166903.01872"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "class ImageProcessing"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageProcessing.cpp"
+            timestampString = "572167985.9864171"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "588"
+            endingLineNumber = "588"
+            landmarkName = "ImageProcessing::ScanFile(char* lpszFile, EN_FSIP_MEDIA_TYPE enMedia_Type, EN_FSIP_ENGINE_TYPE enEngine_Type, EN_FSIP_SCAN_TYPE enScan_Type, ImageProcessing::SYSTEM_IP_RESULTS * sysResults)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageProcessing.cpp"
+            timestampString = "572167987.250553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "591"
+            endingLineNumber = "591"
+            landmarkName = "ImageProcessing::ScanFile(char* lpszFile, EN_FSIP_MEDIA_TYPE enMedia_Type, EN_FSIP_ENGINE_TYPE enEngine_Type, EN_FSIP_SCAN_TYPE enScan_Type, ImageProcessing::SYSTEM_IP_RESULTS * sysResults)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageProcessing.cpp"
+            timestampString = "572167987.802323"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "595"
+            endingLineNumber = "595"
+            landmarkName = "ImageProcessing::ScanFile(char* lpszFile, EN_FSIP_MEDIA_TYPE enMedia_Type, EN_FSIP_ENGINE_TYPE enEngine_Type, EN_FSIP_SCAN_TYPE enScan_Type, ImageProcessing::SYSTEM_IP_RESULTS * sysResults)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageProcessing.cpp"
+            timestampString = "572167988.9784631"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "594"
+            endingLineNumber = "594"
+            landmarkName = "ImageProcessing::ScanFile(char* lpszFile, EN_FSIP_MEDIA_TYPE enMedia_Type, EN_FSIP_ENGINE_TYPE enEngine_Type, EN_FSIP_SCAN_TYPE enScan_Type, ImageProcessing::SYSTEM_IP_RESULTS * sysResults)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageProcessing.cpp"
+            timestampString = "572167990.746495"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "590"
+            endingLineNumber = "590"
+            landmarkName = "ImageProcessing::ScanFile(char* lpszFile, EN_FSIP_MEDIA_TYPE enMedia_Type, EN_FSIP_ENGINE_TYPE enEngine_Type, EN_FSIP_SCAN_TYPE enScan_Type, ImageProcessing::SYSTEM_IP_RESULTS * sysResults)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageProcessing.cpp"
+            timestampString = "572171837.0825"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1204"
+            endingLineNumber = "1204"
+            landmarkName = "ImageProcessing::LoadCascade(void)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

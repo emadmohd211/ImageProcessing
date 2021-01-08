@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'imageprocessing.1.0.0' target in the 'imageprocessing.1.0.0' project.
+//
+
+
+#include <iostream>
